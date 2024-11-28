@@ -1,0 +1,18 @@
+### Sentient
+[[Nova-kid]]
+[[???]]
+[[Carleighs]]
+[[LinLins]]
+[[Werebears]]
+[[Titans]]
+[[Dust Sprites]]
+[[Seafolk]]
+[[Humans]]
+[[Burst birds]]
+[[Raptures]]
+[[Deerepple]]
+[[Fungus]]
+[[Dwarves]]
+### Non-Sentient
+[[Volcanic Warthogs]]
+[[Rainbow Fireflies]]

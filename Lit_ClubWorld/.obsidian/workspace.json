@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Locations/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Index"
             }
           }
         ]
@@ -160,11 +160,13 @@
   },
   "active": "4c256db0f8a9a9a3",
   "lastOpenFiles": [
-    "Misc Ideas&Notes.md",
-    "Welcome.md",
-    "Pantheon/Index.md",
-    "Pantheon",
     "Bestiary/Index.md",
+    "Locations/Index.md",
+    "Welcome.md",
+    "Misc Ideas&Notes.md",
+    "Pantheon/Index.md",
+    "Locations",
+    "Pantheon",
     "Bestiary",
     "Timeline/Index.md",
     "Timeline",

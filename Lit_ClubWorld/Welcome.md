@@ -4,4 +4,5 @@ You can find more information here:
 [[/Timeline/Index|Timeline]]
 [[/Bestiary/Index|Bestiary]]
 [[/Pantheon/Index|Pantheon]]
+[[/Locations/Index|World Locations]]
 [[Misc Ideas&Notes|Misc.]]
