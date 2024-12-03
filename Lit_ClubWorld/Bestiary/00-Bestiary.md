@@ -1,6 +1,6 @@
 ### Sentient
 [[Nova-kid]]
-[[???]]
+[[Question mark, Question mark, Question marks|???]]
 [[Carleighs]]
 [[LinLins]]
 [[Werebears]]
@@ -8,11 +8,11 @@
 [[Dust Sprites]]
 [[Seafolk]]
 [[Humans]]
-[[Burst birds]]
+[[Burstbirds]]
 [[Raptures]]
 [[Deerepple]]
-[[Fungus]]
+[[Funguis]]
 [[Dwarves]]
 ### Non-Sentient
-[[Volcanic Warthogs]]
+[[Volcanic War-boars]]
 [[Rainbow Fireflies]]

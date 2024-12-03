@@ -1,0 +1,1 @@
+A sentient fungus people who are native to the [[Isle of Mold]]. They are super poisonous, little is known about their culture and peoples.

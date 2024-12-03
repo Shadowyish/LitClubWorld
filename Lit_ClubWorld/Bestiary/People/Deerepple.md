@@ -1,0 +1,1 @@
+Satyr-like deer people with broad and branching horns. They are typically a peaceful and quiet people, who broker no intrusion and corruption of their [[The Great Forest of Elia|forest]]. 

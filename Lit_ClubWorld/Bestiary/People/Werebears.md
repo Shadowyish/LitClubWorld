@@ -1,0 +1,1 @@
+Small bear-kin that turn into raging and devastating bear beasts at high-tide. They are the enforcers of the gods and can spread their lycanthropy to other creatures through mysterious rituals.  

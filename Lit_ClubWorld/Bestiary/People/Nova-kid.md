@@ -1,0 +1,1 @@
+Sentient plasma. They roam the Northern Plains and [[Edge Mountains]]. They are a nomadic people, that despise water and all watery things.

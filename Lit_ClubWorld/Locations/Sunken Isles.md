@@ -1,0 +1,1 @@
+The region of the world protected by the Titan's Ice walls. The only known place on the surface to have survived the [[Great-Blue Wave]].

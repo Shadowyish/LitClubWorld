@@ -1,0 +1,1 @@
+Living Sentient embodiments of the [[The Murmuring Desert]]'s will. They enact whatever schemes the desert desires, and are natural predators of the [[Seafolk]].

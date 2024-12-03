@@ -1,0 +1,1 @@
+They are typically seen and represent Mer-People, but variations can exist. They are typically fast swimmers and are the only known beings that can traverse the [[Ice Wall]]. It is a mystery how they do so, though some say that they have found secret passages through near the [[Titans]] icy ankles. They are oft hunted by the [[Dust Sprites]] for their innate magical power.

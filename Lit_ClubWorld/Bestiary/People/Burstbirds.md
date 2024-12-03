@@ -1,0 +1,1 @@
+Small humming bird like beasts that are native to the [[Floating Palace]]. They often charge themselves with lightning and thunder. They can release this energy in a single "burst", and often use this tactic in battle. Preforming swooping dives before exploding themselves on their enemies.

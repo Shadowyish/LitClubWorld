@@ -1,0 +1,1 @@
+These small firefly creatures flit around the [[The Great Forest of Elia]]. They glow various colors and are relatively peaceful creatures. They follow and can be commanded by their fellow forest dwellers, the [[Deerepple]] and [[Carleighs]]. They are nocturnal and whimsical creatures. 

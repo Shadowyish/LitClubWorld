@@ -1,0 +1,1 @@
+Elephant sized boars, they have a hardened leather hide tougher than steel. Their very veins glow with an otherworldly heat and glow. They frequent the lava pools and regions of [[Rostar's Furnace]].
